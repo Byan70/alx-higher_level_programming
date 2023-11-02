@@ -1,10 +1,10 @@
 <h1 align="center"> Conditional statement<h1>
 
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/233/code.png" width="70">
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/233/code.png" width="70%">
 
 ## Rsources
 
-* <a href="https://intranet.alxswe.com/rltoken/jpjs5EnZTpBLLEremJYjPQ> More Control Flow Tools </a>
+* <a href="https://intranet.alxswe.com/rltoken/jpjs5EnZTpBLLEremJYjPQ"> More Control Flow Tools </a>
 * <a href="https://intranet.alxswe.com/rltoken/F9n2AE-fpEPzt2PfBMGYAQ">IndentationError</a>
 * <a href="https://intranet.alxswe.com/rltoken/ZdtRIAkFu8dMBT99DcFBNg">How To Use String Formatters in Python 3</a>
 * <a href="https://intranet.alxswe.com/rltoken/ElQgZYNHrLI7kV_ysEB1hQ"> Learn to Program</a>
