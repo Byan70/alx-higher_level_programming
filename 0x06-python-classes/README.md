@@ -1,13 +1,23 @@
-t add # Python - Classes and Objects(OOP)
+# Python - Classes and Objects(OOP)
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/247/oop-meme.jpg)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6jWSEStnU-_FprH8J-yo-um9jfN7A8PlNA&usqp=CAU)
-# Background Context
+
+## Resources
+
+<a href="https://python-course.eu/oop/properties-vs-getters-and-setters.php">Properties vs. Getters and Setters</a>
+<a href="https://www.youtube.com/watch?v=1AGyBuVCTeE">Learn to Program 9 : Object Oriented Programming</a>
+
+<a href="https://www.youtube.com/watch?v=apACNr7DC_s">Python Classes and Objects</a>
+
+<a href="https://www.youtube.com/watch?v=-DP1i2ZU9gk">Object Oriented Programming</a>
+
+## Background Context
 OOP is a totally new concept for all of you (especially those who think they know about it :)). It’s VERY important that you read at least all the material that is listed bellow (and skip what we recommend you to skip, you will see them later in the curriculum).
 
 As usual, make sure you type (never copy and paste), test, understand all examples shown in the following links (including those in the video), test again etc. The biggest and most important takeaway of this project is: experiment by yourself OOP, play with it!
 
 
-# Learning Objectives
+## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## General
