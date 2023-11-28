@@ -3,7 +3,7 @@
 ## <h2 align="center"> Python Programming</h2>
 
 
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Learn_the_Basics_of_Python.jpg" width="80%">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Learn_the_Basics_of_Python.jpg" width="80%" align="center">
 
 
 ## Requirements
