@@ -5,7 +5,7 @@ Now that we understand that everything is an object and have a little bit of kno
 
 BTW, have you ever modified a variable without knowing it or wanting to? 
 
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/252/r_208403_QPSN8.jpg)
+![](https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg)
 
 ## Resources
 
@@ -16,7 +16,9 @@ BTW, have you ever modified a variable without knowing it or wanting to?
 * [9.12. Cloning lists](https://intranet.alxswe.com/rltoken/-Gi4PX4srBYFKpZ5Er6sqA)
 * [Python tuples: immutable but potentially changing](https://intranet.alxswe.com/rltoken/NZIom4L-tS0HjpY_uEVr9A)
 
-![](https://media.giphy.com/media/wAjfQ9MLUfFjq/giphy.gif)
+![](https://videlais.files.wordpress.com/2018/12/Screenshot-2018-12-20-19.36.41.png)
+
+
 ## Learning Objectives
 
 - What is the difference between a class and an object or instance
